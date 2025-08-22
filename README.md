@@ -6,9 +6,9 @@ I'm **Simon Kaiser**, an **Applikationsentwickler EFZ** (Application Developer) 
 
 ## What I Do
 
-- 💻 **Application Development**: Specializing in full-stack web development with modern frameworks
-- 🌐 **Web Technologies**: Building responsive, user-friendly applications using TypeScript, React, and Next.js
-- 📚 **Continuous Learning**: Always exploring new technologies and improving my development skills
+- **Application Development**: Specializing in full-stack web development with modern frameworks
+- **Web Technologies**: Building responsive, user-friendly applications using TypeScript, React, and Next.js
+- **Continuous Learning**: Always exploring new technologies and improving my development skills
 
 ## 🛠️ Tech Stack & Skills
 
@@ -24,12 +24,16 @@ I'm **Simon Kaiser**, an **Applikationsentwickler EFZ** (Application Developer) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Database & Tools
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ## Personal Interests
 
@@ -37,7 +41,7 @@ In my free time i enjoy:
 - **Skiing**
 - **Gaming**
 - **Learning**
-- **Coding** (ofc)
+- **Coding** 
 
 ## Location & Background
 
