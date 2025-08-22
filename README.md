@@ -10,7 +10,7 @@ I'm **Simon Kaiser**, an **Applikationsentwickler EFZ** (Application Developer) 
 - **Web Technologies**: Building responsive, user-friendly applications using TypeScript, React, and Next.js
 - **Continuous Learning**: Always exploring new technologies and improving my development skills
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
